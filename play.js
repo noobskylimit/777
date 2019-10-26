@@ -1,5 +1,6 @@
 let games = [];
 let mines = [];
+let play = [];
 newGame = false;
 
 function setup() {
